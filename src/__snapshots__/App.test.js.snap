@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Div changes colour when button is pressed 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "black",
+      "color": "white",
+    }
+  }
+>
+  <p>
+    I am the app
+  </p>
+  <div
+    className="family"
+  >
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      Toggle background
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Link changes the class when hovered 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "black",
+      "color": "white",
+    }
+  }
+>
+  <p>
+    I am the app
+  </p>
+  <div
+    className="family"
+  >
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      Toggle background
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Link changes the class when hovered 2`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "black",
+      "color": "white",
+    }
+  }
+>
+  <p>
+    I am the app
+  </p>
+  <div
+    className="family"
+  >
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      Toggle background
+    </button>
+  </div>
+</div>
+`;
